@@ -1,0 +1,24 @@
+
+.pr-bg {
+  background: linear-gradient(to right, #ff7e5f, #feb47b);
+}
+
+.card {
+  background: #fff;
+  border-radius: 15px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.card-header {
+  background: linear-gradient(to right, #ff7e5f, #feb47b);
+  border-radius: 15px 15px 0 0;
+}
+
+.card-body h3 {
+  margin-bottom: 10px;
+}
+
+.card-body h3 span {
+  font-weight: normal;
+  color: #333;
+}
